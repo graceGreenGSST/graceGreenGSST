@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm Grace 👋
+
+I'm currently learning...  
+C++, R, Python  
+
+<u>Organization</u>: New Horizons Governor's School for Science and Technology  
+
+
 
 <!--
 **graceGreenGSST/graceGreenGSST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
