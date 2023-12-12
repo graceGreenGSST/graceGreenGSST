@@ -5,6 +5,8 @@ C++, R, Python
 
 <u>Organization</u>: New Horizons Governor's School for Science and Technology  
 
+Fun Fact!
+Most figs have dead wasps inside them! It's how they're pollinated. 
 
 
 <!--
